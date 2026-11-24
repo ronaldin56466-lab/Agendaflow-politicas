@@ -1,4 +1,4 @@
-name: Publicar AgendaFlow
+name: AgendaFlow Site
 
 on:
   push:
